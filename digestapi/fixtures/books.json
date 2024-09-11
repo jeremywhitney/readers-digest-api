@@ -1,0 +1,167 @@
+[
+  {
+    "model": "digestapi.book",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "isbn_number": "9780743273565",
+      "cover_image": "https://example.com/great_gatsby.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "isbn_number": "9780451524935",
+      "cover_image": "https://example.com/1984.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 3,
+    "fields": {
+      "user": 3,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "isbn_number": "9780060935467",
+      "cover_image": "https://example.com/to_kill_a_mockingbird.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 4,
+    "fields": {
+      "user": 4,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "isbn_number": "9780316769488",
+      "cover_image": "https://example.com/catcher_in_the_rye.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 5,
+    "fields": {
+      "user": 5,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "isbn_number": "9780141439518",
+      "cover_image": "https://example.com/pride_and_prejudice.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 6,
+    "fields": {
+      "user": 6,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "isbn_number": "9780261103573",
+      "cover_image": "https://example.com/lord_of_the_rings.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 7,
+    "fields": {
+      "user": 1,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "isbn_number": "9780618968633",
+      "cover_image": "https://example.com/the_hobbit.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 8,
+    "fields": {
+      "user": 2,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "isbn_number": "9781451673319",
+      "cover_image": "https://example.com/fahrenheit_451.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 9,
+    "fields": {
+      "user": 3,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "isbn_number": "9780060850524",
+      "cover_image": "https://example.com/brave_new_world.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 10,
+    "fields": {
+      "user": 4,
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "isbn_number": "9780066238500",
+      "cover_image": "https://example.com/narnia.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 11,
+    "fields": {
+      "user": 5,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "isbn_number": "9781503280786",
+      "cover_image": "https://example.com/moby_dick.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 12,
+    "fields": {
+      "user": 6,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "isbn_number": "9781400079988",
+      "cover_image": "https://example.com/war_and_peace.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 13,
+    "fields": {
+      "user": 1,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "isbn_number": "9780141441145",
+      "cover_image": "https://example.com/jane_eyre.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 14,
+    "fields": {
+      "user": 2,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "isbn_number": "9780141439556",
+      "cover_image": "https://example.com/wuthering_heights.jpg"
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 15,
+    "fields": {
+      "user": 3,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "isbn_number": "9780062315007",
+      "cover_image": "https://example.com/the_alchemist.jpg"
+    }
+  }
+]
