@@ -1,0 +1,112 @@
+[
+  {
+    "model": "digestapi.review",
+    "pk": 1,
+    "fields": {
+      "book": 1,
+      "user": 1,
+      "rating": 5,
+      "comment": "Incredible book, really changed my perspective on life!",
+      "date_posted": "2024-09-12"
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 2,
+    "fields": {
+      "book": 2,
+      "user": 2,
+      "rating": 4,
+      "comment": "A great read, though it dragged a bit in the middle.",
+      "date_posted": "2024-09-12"
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 3,
+    "fields": {
+      "book": 3,
+      "user": 3,
+      "rating": 3,
+      "comment": "It was okay, nothing groundbreaking, but well written.",
+      "date_posted": "2024-09-12"
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 4,
+    "fields": {
+      "book": 4,
+      "user": 4,
+      "rating": 5,
+      "comment": "One of the best books I've ever read! Highly recommend.",
+      "date_posted": "2024-09-12"
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 5,
+    "fields": {
+      "book": 5,
+      "user": 5,
+      "rating": 2,
+      "comment": "Disappointing, expected more from this author.",
+      "date_posted": "2024-09-12"
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 6,
+    "fields": {
+      "book": 6,
+      "user": 6,
+      "rating": 4,
+      "comment": "A solid book with an interesting plot and good pacing.",
+      "date_posted": "2024-09-12"
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 7,
+    "fields": {
+      "book": 7,
+      "user": 1,
+      "rating": 3,
+      "comment": "Enjoyable but not very memorable.",
+      "date_posted": "2024-09-12"
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 8,
+    "fields": {
+      "book": 8,
+      "user": 2,
+      "rating": 5,
+      "comment": "A must-read for anyone interested in science fiction!",
+      "date_posted": "2024-09-12"
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 9,
+    "fields": {
+      "book": 9,
+      "user": 3,
+      "rating": 2,
+      "comment": "Couldn't get into it. Maybe it just wasn't for me.",
+      "date_posted": "2024-09-12"
+    }
+  },
+  {
+    "model": "digestapi.review",
+    "pk": 10,
+    "fields": {
+      "book": 10,
+      "user": 4,
+      "rating": 4,
+      "comment": "A fun and engaging book, great for weekend reading.",
+      "date_posted": "2024-09-12"
+    }
+  }
+]
